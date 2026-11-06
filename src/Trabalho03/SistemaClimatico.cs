@@ -1,15 +1,15 @@
 using System;
 
-namespace  AlgoritmosProgramacao.Trabalho03
+namespace AlgoritmosProgramacao.Trabalho03
 {
     public class SistemaClimatico
     {
         public static void Executar()
         {
             Console.Clear();
-            Console.WriteLine("----------------------------------------------------");
+            Console.WriteLine("----------------------------------------------");
             Console.WriteLine("  Sistema de Monitoramento Climático ");
-            Console.WriteLine("----------------------------------------------------");
+            Console.WriteLine("----------------------------------------------");
 
             int n, i, j, temperatura, soma;
             string nomeCid;
