@@ -1,0 +1,58 @@
+3
+1
+Zé Betão
+2
+Chico José
+3
+Pedro Chiquito
+10
+101
+Maria Silva
+15/03/1990
+34
+1
+102
+João Santos
+20/05/1985
+39
+2
+103
+Ana Lima
+10/01/2000
+24
+3
+104
+Carlos Souza
+05/12/1978
+46
+0
+105
+Beatriz Costa
+02/02/1995
+29
+99
+106
+Fernanda Alves
+18/07/1988
+36
+1
+107
+Lucas Pereira
+22/11/2001
+23
+2
+108
+Juliana Rocha
+04/04/1992
+32
+3
+109
+Rafael Martins
+12/08/1980
+44
+0
+110
+Patricia Ribeiro
+30/09/1999
+25
+1
