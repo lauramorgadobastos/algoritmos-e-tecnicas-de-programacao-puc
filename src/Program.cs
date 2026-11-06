@@ -43,7 +43,7 @@ namespace AlgoritmosProgramacao
                             Pausar();
                             break;
                         case 0:
-                            Console.WriteLine("\nEncerrando o programa. Até mais!");
+                            Console.WriteLine("\nEncerrando o programa. Até mais!!");
                             break;
                         default:
                             Console.WriteLine("\nOpção inválida! Tente novamente.");

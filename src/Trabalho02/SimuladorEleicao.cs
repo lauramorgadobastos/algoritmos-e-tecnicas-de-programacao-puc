@@ -2,15 +2,15 @@ using System;
 
 namespace AlgoritmosProgramacao.Trabalho02
 {
-    public class SimuladorEleicao
+    public class SimuladorEleicao // Trabalho 2
     {
         public static void Executar()
         {
             Console.Clear();
-            Console.WriteLine("-------------------------------------------------------------------------------");
+            Console.WriteLine("--------------------------------------------------------------------------------");
             Console.WriteLine("Simulação da eleição para prefeito na cidade de Fim do Mundo do Norte");
             Console.WriteLine("Candidatos: Teobaldo e Astrogildo");
-            Console.WriteLine("-------------------------------------------------------------------------------");
+            Console.WriteLine("--------------------------------------------------------------------------------");
 
             int n, cadi1, cadi2, numElei = 1;
             int votCadi1 = 0, votCadi2 = 0, votNulo = 0, votBranco = 0;
