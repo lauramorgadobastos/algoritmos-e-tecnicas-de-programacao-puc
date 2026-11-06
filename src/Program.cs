@@ -11,17 +11,17 @@ namespace AlgoritmosProgramacao
             do
             {
                 Console.Clear();
-                Console.WriteLine("======================================================");
+                Console.WriteLine("===========================================================");
                 Console.WriteLine("    Curso: Sistemas de Informação (1º Período)        ");
                 Console.WriteLine("    Disciplina: Algoritmos e Técnicas de Programação");
-                Console.WriteLine("======================================================");
+                Console.WriteLine("===========================================================");
                 Console.WriteLine("Selecione o trabalho que deseja executar:");
-                Console.WriteLine("1 - Trabalho Prático 1: Calculadora de Descontos");
-                Console.WriteLine("2 - Trabalho Prático 2: Simulação Eleitoral");
-                Console.WriteLine("3 - Trabalho Prático 3: Sistema Climático ");
-                Console.WriteLine("4 - Trabalho Prático 4 (Em breve)");
+                Console.WriteLine("1 - TP1: Calculadora de Descontos");
+                Console.WriteLine("2 - TP2: Eleição Prefeito (Fim do Mundo do Norte)");
+                Console.WriteLine("3 - TP3: Sistema de Monitoramento Climático");
+                Console.WriteLine("4 - TP4: Eleição Prefeito (Fim do Mundo do Sul - Arquivos)");
                 Console.WriteLine("0 - Sair");
-                Console.WriteLine("======================================================");
+                Console.WriteLine("===========================================================");
                 Console.Write("Digite sua opção: ");
 
                 if (int.TryParse(Console.ReadLine(), out opcao))
@@ -38,8 +38,7 @@ namespace AlgoritmosProgramacao
                             AlgoritmosProgramacao.Trabalho03.SistemaClimatico.Executar();
                             break;
                         case 4:
-                            Console.WriteLine("\n[Em breve] O Trabalho 4 ainda será adicionado.");
-                            Pausar();
+                            AlgoritmosProgramacao.Trabalho04.SimuladorEleicaoSul.Executar();
                             break;
                         case 0:
                             Console.WriteLine("\nEncerrando o programa. Até mais!!");

@@ -1,0 +1,13 @@
+
+=======================================================
+       RESULTADO DA ELEIÇÃO - FIM DO MUNDO DO SUL      
+=======================================================
+
+ Vencedor: Zé Betão (n° 1) com 3 votos!
+
+Candidato Zé Betão (n° 1): 3 voto(s)
+Candidato Chico José (n° 2): 2 voto(s)
+Candidato Pedro Chiquito (n° 3): 2 voto(s)
+Votos em branco: 2
+Votos nulos: 1
+=======================================================
