@@ -17,8 +17,8 @@ namespace AlgoritmosProgramacao
                 Console.WriteLine("======================================================");
                 Console.WriteLine("Selecione o trabalho que deseja executar:");
                 Console.WriteLine("1 - Trabalho Prático 1: Calculadora de Descontos");
-                Console.WriteLine("2 - Trabalho Prático 2 (Em breve)");
-                Console.WriteLine("3 - Trabalho Prático 3 (Em breve)");
+                Console.WriteLine("2 - Trabalho Prático 2: Simulação Eleitoral");
+                Console.WriteLine("3 - Trabalho Prático 3: Sistema Climático ");
                 Console.WriteLine("4 - Trabalho Prático 4 (Em breve)");
                 Console.WriteLine("0 - Sair");
                 Console.WriteLine("======================================================");
@@ -35,8 +35,7 @@ namespace AlgoritmosProgramacao
                             AlgoritmosProgramacao.Trabalho02.SimuladorEleicao.Executar();
                             break;
                         case 3:
-                            Console.WriteLine("\n[Em breve] O Trabalho 3 ainda será adicionado.");
-                            Pausar();
+                            AlgoritmosProgramacao.Trabalho03.SistemaClimatico.Executar();
                             break;
                         case 4:
                             Console.WriteLine("\n[Em breve] O Trabalho 4 ainda será adicionado.");
