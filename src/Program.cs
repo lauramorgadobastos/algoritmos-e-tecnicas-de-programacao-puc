@@ -12,7 +12,7 @@ namespace AlgoritmosProgramacao
             {
                 Console.Clear();
                 Console.WriteLine("======================================================");
-                Console.WriteLine("    Curso: Sistemas de Informação (1º Período)");
+                Console.WriteLine("    Curso: Sistemas de Informação (1º Período)        ");
                 Console.WriteLine("    Disciplina: Algoritmos e Técnicas de Programação");
                 Console.WriteLine("======================================================");
                 Console.WriteLine("Selecione o trabalho que deseja executar:");
