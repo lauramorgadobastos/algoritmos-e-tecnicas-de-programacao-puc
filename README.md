@@ -182,4 +182,4 @@ Você pode me encontrar nos canais abaixo:
 ---
 
 ##  Licença 
-Este repositório não possui uma licença específica definida, pois tem caráter estritamente educacional e acadêmico para a disciplina de Algoritmos e Estrutura de Dados. 
+Este repositório não possui uma licença específica definida, pois tem caráter estritamente educacional e acadêmico para a disciplina de Algoritmos e Técnicas de Programação (ATP). 
